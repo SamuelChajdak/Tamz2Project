@@ -1,0 +1,7 @@
+Aplikácia bude dosková spoločenská hra SVET upravená aby vyhovovala formátu pre adriod aplikácie.
+Hráči budú odpovedať na otázky ohľadom rôznych častí sveta, za správnu odpoveď dostanú žetón, za nesprávnu nič.
+Kategórie otázok budú rozdelené podľa jednotlivých kontinentov, hráč ktorý už bude mať žetón v danej kategórii ide po správnej odpovedi ešte raz.
+Keď nazbiera hráč všetky žetóny ide do finálovej cesty kde mu budú ponúknuté 4 náhodne vygenerované cesty (tie sa budú skadať z 2 otázok, každá z jednej náhodnej kategorie)
+Vyhráva hráč ktorý ako prvý prejde finálovou coustou.
+Hra bude ukladať TOP skóre v podobe rekordu počtu ťahov potrebných na výhru.
+Hra ďalej bude ukkladať súčasný stav v prípade ak nebude dokončená na jedenkrát.
